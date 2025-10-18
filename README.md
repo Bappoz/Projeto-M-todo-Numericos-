@@ -4,6 +4,12 @@ Este repositório contém a implementação em desenvolvimento de um trabalho da
 
 O problema envolve a resolução de uma equação diferencial não linear que descreve a forma de um cabo flexível suspenso entre dois pontos, utilizando o **método de Runge-Kutta de quarta ordem** com o **método do Tiro**. Também serão feitas análises de derivadas numéricas e regressão polinomial conforme especificado no enunciado.
 
+## Contribuidores 
+- @TiagoSBittencourt
+- @AngelDanielGrau
+- @pedruck
+
+
 ## Detalhes do Problema
 
 ![Enunciado do problema](assets/DetalhesTrabalho.png)
